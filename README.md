@@ -1,42 +1,40 @@
 #Список полей, которые не вошли в методы:#
 
 ##add##
-privacy
-commentPrivacy
-privacyView
-privacyComment
+1. privacy
+2. commentPrivacy
+3. privacyView
+4. privacyComment
 
 ##createComment##
-ownerId
-replyTo
-
-##delete##
+1. ownerId
+2. replyTo
 
 ##deleteComment##
-ownerId
+1. ownerId
 
 ##edit##
-privacy
-commentPrivacy
-privacyView
-privacyComment
+1. privacy
+2. commentPrivacy
+3. privacyView
+4. privacyComment
 
 ##editComment##
-ownerId
+1. ownerId
 
 ##get##
-userId
-offset
+1. userId
+2. offset
 
 ##getById##
-ownerId
-needWiki
-sort
+1. ownerId
+2. needWiki
+3. sort
 
 ##getComments##
-ownerId
-offset
-sort
+1. ownerId
+2. offset
+3. sort
 
 ##restoreComment##
-ownerId
+1. ownerId
